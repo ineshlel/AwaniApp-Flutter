@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064509875495",
+    "firebase_url": "https://awaniapp-e2662.firebaseio.com",
+    "project_id": "awaniapp-e2662",
+    "storage_bucket": "awaniapp-e2662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064509875495:android:3f6f20810916ebd9ae3502",
+        "android_client_info": {
+          "package_name": "com.example.awani_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064509875495-33ac8deqjpg9ema2c7uhd2vsk1mitlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNkeFtJYQTb6-B4n9eQxkvYtGXzYuuhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064509875495-33ac8deqjpg9ema2c7uhd2vsk1mitlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
